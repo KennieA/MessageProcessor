@@ -1,0 +1,11 @@
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\bin\Release\netcoreapp2.0\MessageProcessor.deps.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\bin\Release\netcoreapp2.0\MessageProcessor.runtimeconfig.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\bin\Release\netcoreapp2.0\MessageProcessor.runtimeconfig.dev.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\bin\Release\netcoreapp2.0\MessageProcessor.dll
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\bin\Release\netcoreapp2.0\MessageProcessor.pdb
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\obj\Release\netcoreapp2.0\MessageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\obj\Release\netcoreapp2.0\MessageProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\obj\Release\netcoreapp2.0\MessageProcessor.AssemblyInfoInputs.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\obj\Release\netcoreapp2.0\MessageProcessor.AssemblyInfo.cs
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\obj\Release\netcoreapp2.0\MessageProcessor.dll
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\MessageProcessor\obj\Release\netcoreapp2.0\MessageProcessor.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\bin\Debug\netcoreapp2.0\Admin.deps.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\bin\Debug\netcoreapp2.0\Admin.runtimeconfig.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\bin\Debug\netcoreapp2.0\Admin.runtimeconfig.dev.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\bin\Debug\netcoreapp2.0\Admin.dll
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\bin\Debug\netcoreapp2.0\Admin.pdb
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\obj\Debug\netcoreapp2.0\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\obj\Debug\netcoreapp2.0\Admin.AssemblyInfoInputs.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\obj\Debug\netcoreapp2.0\Admin.AssemblyInfo.cs
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\obj\Debug\netcoreapp2.0\Admin.dll
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Admin\obj\Debug\netcoreapp2.0\Admin.pdb

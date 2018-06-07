@@ -1,0 +1,49 @@
+services:
+  admin:
+    build:
+      context: C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor
+      dockerfile: Admin\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: admin
+    ports:
+    - 5002:80/tcp
+    - 80/tcp
+  api:
+    build:
+      context: C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor
+      dockerfile: api\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: api
+    ports:
+    - 5003:80/tcp
+    - 80/tcp
+  messageapi:
+    build:
+      context: C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor
+      dockerfile: MessageApi\Dockerfile
+    image: messageapi
+    ports:
+    - 5005:80/tcp
+  messageprocessor:
+    build:
+      context: C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor
+      dockerfile: MessageProcessor\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: messageprocessor
+    ports:
+    - 5001:80/tcp
+    - 80/tcp
+  screen:
+    build:
+      context: C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor
+      dockerfile: Screen\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: screen
+    ports:
+    - 5004:80/tcp
+    - 80/tcp
+version: '3.0'

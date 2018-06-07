@@ -1,0 +1,1 @@
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

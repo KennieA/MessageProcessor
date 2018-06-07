@@ -1,0 +1,11 @@
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\bin\Release\netcoreapp2.0\Screen.deps.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\bin\Release\netcoreapp2.0\Screen.runtimeconfig.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\bin\Release\netcoreapp2.0\Screen.runtimeconfig.dev.json
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\bin\Release\netcoreapp2.0\Screen.dll
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\bin\Release\netcoreapp2.0\Screen.pdb
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\obj\Release\netcoreapp2.0\Screen.csprojResolveAssemblyReference.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\obj\Release\netcoreapp2.0\Screen.csproj.CoreCompileInputs.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\obj\Release\netcoreapp2.0\Screen.AssemblyInfoInputs.cache
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\obj\Release\netcoreapp2.0\Screen.AssemblyInfo.cs
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\obj\Release\netcoreapp2.0\Screen.dll
+C:\Users\Kennie\Desktop\VS\MessageProcessor\MessageProcessor\Screen\obj\Release\netcoreapp2.0\Screen.pdb

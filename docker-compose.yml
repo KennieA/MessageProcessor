@@ -1,0 +1,43 @@
+version: '3'
+
+services:
+  messageprocessor:
+    image: messageprocessor
+    ports:
+    - "5001:80"
+    build:
+      context: .
+      dockerfile: MessageProcessor\Dockerfile
+
+  admin:
+    image: admin
+    ports:
+    - "5002:80"
+    build:
+      context: .
+      dockerfile: Admin\Dockerfile
+
+  api:
+    image: api
+    ports:
+    - "5003:80"
+    build:
+      context: .
+      dockerfile: api\Dockerfile
+
+  screen:
+    image: screen
+    ports:
+    - "5004:80"
+    build:
+      context: .
+      dockerfile: Screen\Dockerfile
+
+  messageapi:
+    image: messageapi
+    ports:
+    - "5005:80"
+    build:
+      context: .
+      dockerfile: MessageApi\Dockerfile
+
